@@ -47,7 +47,7 @@ Tất cả các kho mã nguồn bên dưới đều được kiểm thử thực
 * **Chuẩn hóa tiếng Việt chuyên sâu:** Tự động xử lý chính xác cách đọc số, ngày tháng, thời gian, tiền tệ, phần trăm `%`, đơn vị đo lường và từ viết tắt.
 * **Lồng tiếng Đa nhân vật (Multi-Speaker Casting):** Phân tách thông minh lời dẫn chuyện và lời thoại nhân vật, tự động gán giọng theo giới tính/độ tuổi, tự chèn khoảng nghỉ (pause) tự nhiên.
 * **Căn chỉnh phụ đề Word-Level Alignment:** Đồng bộ mốc thời gian từng từ cho SRT/VTT, tự động căn khớp theo văn bản gốc.
-* 💡 *Hỗ trợ kho 9.000+ giọng ElevenLabs ngoại cao cấp (liên hệ riêng để được hướng dẫn).*
+* 💡 *Hỗ trợ kho 9.000+ giọng ElevenLabs ngoại cao cấp (liên hệ riêng qua [Facebook](https://www.facebook.com/profile.php?id=100004022911152) để được hướng dẫn).*
 
 🔗 **Repository:** [github.com/tranthanhhai1997/ai-voice-free-kit](https://github.com/tranthanhhai1997/ai-voice-free-kit)
 
@@ -119,7 +119,7 @@ Một số sản phẩm thực chiến được xây dựng trên nền tảng c
 
 * **Hình thức:** Kèm cặp trực tiếp **1:1 qua thực tế dự án** đến khi tự làm chủ được công nghệ và phát triển tool độc lập.
 * **Đối tượng phù hợp:** Người trẻ, có nền tảng CNTT cơ bản hoặc đam mê tự động hóa quy trình sáng tạo số.
-* **Liên hệ:** Nhắn tin trực tiếp qua GitHub hoặc thông tin liên hệ trên trang cá nhân.
+* **Liên hệ:** Nhắn tin trực tiếp qua [Facebook cá nhân](https://www.facebook.com/profile.php?id=100004022911152)
 
 ---
 
